@@ -29,6 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - VC relist
 - MySQL
 - HeidiSQL
+- osTicket
 
 <h2>Configuration Steps</h2>
 
