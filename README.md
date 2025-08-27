@@ -252,7 +252,7 @@ Topic: Password Reset
 Parent topic: Report Problem 
 Add Topic
 Go back to help topic > Add new Help Topic
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1054" height="929" alt="PIO 33" src="https://github.com/user-attachments/assets/79969f3c-1db9-48e5-9c58-3d4ea2e91b05" />
 </p><br />
 
 
@@ -263,6 +263,7 @@ Topic: Other
 Parent topic: Report Problem 
 Add Topic
 Go back to help topic > Add new Help Topic
+<img width="1031" height="962" alt="PIO 34" src="https://github.com/user-attachments/assets/57ad936e-06e5-46b9-9a0d-287e1a2dd140" />
 </p><br />
 
 <p>
