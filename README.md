@@ -156,7 +156,7 @@ Click Create
 </p><br />
 
 <p>
-I will now setting up anaccount for 1 users.
+I will now setting up an account for 1 users.
 Go back to the Agent panel > Go to Admin panel > user > add user
 <img width="990" height="830" alt="PIO 22" src="https://github.com/user-attachments/assets/c7124f0d-4d7f-451f-8588-153870eb8c9c" />
 </p><br />
@@ -167,49 +167,103 @@ In the user section fill in the relevant fields Email address and full name then
 </p><br />
 
 <p>
-  Now I will be create 3 SLA's
+  Now I will be creating 3 SLA's
 Admin Panel > Manage > SLA.
 Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 Sev-C (Grace Period: 8 hours, Business Hours)
-Add new SLA Plan complete the necessary fields Name, Grace period, and schedule.
   <img width="997" height="919" alt="PIO 24" src="https://github.com/user-attachments/assets/acc77891-53c3-4dfc-9575-c2fb99645bb8" />
 </p>
-<br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Admin Panel > Manage > SLA.
+Add new SLA Plan complete the necessary fields Name, Grace period, and schedule. Now click on add plan.
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+<img width="1025" height="957" alt="image" src="https://github.com/user-attachments/assets/e0dfc424-e81a-4f09-b11a-5b401b50be6f" />
+</p><br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  <p>
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+<img width="1026" height="786" alt="PIO 26" src="https://github.com/user-attachments/assets/afd34fe6-7434-49a0-b7fd-dbb37c4c84f4" />
 </p>
-<br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Sev-C (Grace Period: 8 hours, Business Hours)
+<img width="1034" height="926" alt="PIO 27" src="https://github.com/user-attachments/assets/a77e227d-b297-46cf-9654-2ad557f3fdcc" />
 </p>
-<br />
+
+<p>
+Go back to Admin panel
+<img width="1012" height="922" alt="PIO 28" src="https://github.com/user-attachments/assets/a4cebfcd-cc32-4f59-b232-57b4e17a552e" />
+</p><br />
+
+<p>
+Now, I will set up the Help topic/categories.
+Admin Panel > Manage > Help Topics.
+I will be setting up a few topics 
+  
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+Other
+<img width="1033" height="959" alt="PIO 29" src="https://github.com/user-attachments/assets/03f43208-8d23-42ae-ad52-06fa3ccb6275" />
+</p><br />
+
+<p>
+Click add help topics 
+Fill out the necessary fields
+Topic: Business Critical Outage
+Parent topic: Report Problem 
+Add Topic
+Go back to help topic > Add new Help Topic
+<img width="1002" height="965" alt="PIO 30" src="https://github.com/user-attachments/assets/c2507334-85df-4cf0-9ed8-f5191a3355d5" />
+</p><br />
+
+<p>
+  Click add help topics 
+Fill in the necessary fields
+Topic: Personal Computer Issues
+Parent topic: Report Problem 
+Add Topic
+Go back to help topic > Add new Help Topic
+<img width="1023" height="768" alt="PIO 31" src="https://github.com/user-attachments/assets/23a7b358-9531-435b-a6d3-79dcf313e27f" />
+</p><br />
+
+
+<p>
+  Click add help topics 
+Fill in the necessary fields
+Topic: Equipment Request
+Parent topic: Report Problem 
+Add Topic
+Go back to help topic > Add new Help Topic
+<img width="1042" height="993" alt="PIO 32" src="https://github.com/user-attachments/assets/1a665eda-e036-4c41-8194-fe0df3ebd6ac" />
+
+</p><br />
+
+<p>
+  Click add help topics 
+Fill in the necessary fields
+Topic: Password Reset
+Parent topic: Report Problem 
+Add Topic
+Go back to help topic > Add new Help Topic
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p><br />
+
+
+<p>
+  Click add help topics 
+Fill in the necessary fields
+Topic: Other
+Parent topic: Report Problem 
+Add Topic
+Go back to help topic > Add new Help Topic
+</p><br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
