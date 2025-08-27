@@ -69,6 +69,8 @@ Log into azure make sure you enable virtual machines from the previous session.
 <p>
 Next go to agent > Roles > Add new role. 
 I will create a role called Supreme Admin.
+Fill in the name box Supreme Admin.
+
 <img width="1257" height="577" alt="PIO 7" src="https://github.com/user-attachments/assets/e7053edb-c19c-4deb-9061-3b6def896db6" />
 
 
@@ -77,7 +79,9 @@ I will create a role called Supreme Admin.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Then click on the Permissions tab and check all boxes.
+<img width="1103" height="757" alt="PIO 8" src="https://github.com/user-attachments/assets/4fb310e0-5a74-4665-afdc-2b02df7772fd" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
