@@ -126,9 +126,6 @@ After creating the Online Banking Team successfully you will see successfully ad
 
 
 
-
-
-
 <p>
 Now I will allow anyone (user/admins) to create tickets. This will allow end user to create tickets without an account.
 Go to Admin Panel > Setting > User 
@@ -143,9 +140,10 @@ Now go back to the admin panel.
 
 
 <p>
-  Now I will set up two Agent Accounts.
+  Now I will set up two Agent Accounts. Jane (Dept: SysAdmins) and John (Dept: Support)
   Admin Panel > Agents > Add new Agents.
-<img width="1057" height="498" alt="PIO 17" src="https://github.com/user-attachments/assets/f9716929-c422-4d72-98fe-a68b6edd1635" />
+<img width="1028" height="973" alt="PIO 19" src="https://github.com/user-attachments/assets/937b0b48-427a-4b92-8a56-4f44831bbe18" />
+
 </p>
 
 
@@ -155,7 +153,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="1057" height="498" alt="PIO 17" src="https://github.com/user-attachments/assets/5f9941b5-55db-4666-95df-f99d24e1d3be" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
