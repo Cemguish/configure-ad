@@ -112,24 +112,43 @@ Fill in the name box Supreme Admin.
 
 <p>
 Now I will create teams for Online banking
-  Go back to admin panel > Teams
-  Add New Teams name the team "Online Banking" 
-  Now create Team
+Go back to admin panel > Teams
+Add New Teams name the team "Online Banking" 
+Now Create Team
   <img width="1056" height="465" alt="PIO 14" src="https://github.com/user-attachments/assets/a23908e9-579c-410f-99da-2e296d5cabe0" />
 </p>
 <br />
 
 <p>
-  After creating the Online Banking Team successfully you will see successfully added to the top of the page in a green box.
+After creating the Online Banking Team successfully you will see successfully added to the top of the page in a green box.
 <img width="1027" height="805" alt="PIO 15" src="https://github.com/user-attachments/assets/38daeceb-203e-4f88-a564-8e136b1b485a" />
+</p>
 
-</p>
+
+
+
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now I will allow anyone (user/admins) to create tickets. This will allow end user to create tickets without an account.
+Go to Admin Panel > Setting > User 
+Make sure Registration Required box is unchecked.
+Now go back to the admin panel.
+<img width="1047" height="762" alt="PIO 16" src="https://github.com/user-attachments/assets/dae0461e-7196-4d82-a7a2-31e6f4bf5fdc" />
 </p>
-<br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+
+
+<p>
+  Now I will set up two Agent Accounts.
+  Admin Panel > Agents > Add new Agents.
+<img width="1057" height="498" alt="PIO 17" src="https://github.com/user-attachments/assets/f9716929-c422-4d72-98fe-a68b6edd1635" />
 </p>
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
