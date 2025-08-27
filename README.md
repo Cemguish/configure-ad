@@ -156,18 +156,24 @@ Click Create
 </p><br />
 
 <p>
-I will now setting up account for 2 users.
+I will now setting up anaccount for 1 users.
 Go back to the Agent panel > Go to Admin panel > user > add user
 <img width="990" height="830" alt="PIO 22" src="https://github.com/user-attachments/assets/c7124f0d-4d7f-451f-8588-153870eb8c9c" />
 </p><br />
 
 <p>
-In the user section fill in the relevant fields Email address and full name.
+In the user section fill in the relevant fields Email address and full name then Add user.
 <img width="752" height="847" alt="PIO 23" src="https://github.com/user-attachments/assets/a16248e9-159e-41cb-b084-2172e83d74ac" />
 </p><br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Now I will be create 3 SLA's
+Admin Panel > Manage > SLA.
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+Add new SLA Plan complete the necessary fields Name, Grace period, and schedule.
+  <img width="997" height="919" alt="PIO 24" src="https://github.com/user-attachments/assets/acc77891-53c3-4dfc-9575-c2fb99645bb8" />
 </p>
 <br /><p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
