@@ -80,11 +80,16 @@ Fill in the name box Supreme Admin.
 
 <p>
   Then click on the Permissions tab and check all boxes.
+  Click on the Task Tab and check all boxes.
+  Click on knowledge base check the Premade box then add role
 <img width="1103" height="757" alt="PIO 8" src="https://github.com/user-attachments/assets/4fb310e0-5a74-4665-afdc-2b02df7772fd" />
 
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  After creating the role successfully you will see successfully added role to the top of the page in a green box.
+<img width="1022" height="554" alt="PIO 10" src="https://github.com/user-attachments/assets/faa41a6d-6d29-4427-a0f9-ca62e323fb41" />
+
 </p>
 <br />
 
