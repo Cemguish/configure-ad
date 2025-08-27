@@ -61,12 +61,17 @@ Log into azure make sure you enable virtual machines from the previous session.
 
 <p>
   After login to osTicket I will be creating and few roles Supreme Admin, SysAdmins, Online Banking, Agent(Workers) and Users (Customers)
+  Navigate to the double click > Agent panel 
 <img width="1709" height="862" alt="PIO 5" src="https://github.com/user-attachments/assets/2b9f9cdc-d4d6-4206-87a5-e0d1d0642d7c" />
 </p>
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next go to agent > Roles > Add new role. 
+I will create a role called Supreme Admin.
+<img width="1257" height="577" alt="PIO 7" src="https://github.com/user-attachments/assets/e7053edb-c19c-4deb-9061-3b6def896db6" />
+
+
 </p>
 <br />
 
