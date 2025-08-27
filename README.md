@@ -141,14 +141,17 @@ Now I will set up two Agent Accounts. Jane (Dept: SysAdmins) and John (Dept: Sup
 Admin Panel > Agents > Add new Agents.
 Fill in the relevant fields like  Name, email address, User name, and Set password.
 Next, go to the access tab for the choose department and role. Add Department Support/SysAdmins add role Supreme Admin.
-Click on the Teams Tab Add to "Online Banking"
+Click on the Teams Tab Add to "Online Banking" and Create
 <img width="1028" height="973" alt="PIO 19" src="https://github.com/user-attachments/assets/937b0b48-427a-4b92-8a56-4f44831bbe18" />
-
 </p>
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to the admin panel
+Admin Panel > Agents > Add new Agents.
+Fill in the relevant fields like  Name, email address, User name, and Set password.
+Next, go to the access tab for the choose department and role. Add Department Support add role View Only.
+Click Create<img width="1084" height="626" alt="PIO 21" src="https://github.com/user-attachments/assets/b1522061-d7d9-4e1d-af3b-e4c24d934c4f" />
 </p>
 <br />
 
