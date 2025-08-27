@@ -94,18 +94,35 @@ Fill in the name box Supreme Admin.
 <br />
 
 <p>
-  Next, I will be creating roles for Departments.
-  Admin panel > Agents > Departments add New department
+  Next, I will be creating a role for Departments. 
+  Go back to the Admin panel > Agents > Departments add New department.
 <img width="1168" height="495" alt="PIO 11" src="https://github.com/user-attachments/assets/e1f9ba60-22c4-4c44-957d-0f190bcfad27" />
 </p>
+
+
+
+
+
+
+
+
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  At the add department section for the parent leave it as Top level department > Name SysAdmins and create.
+<img width="1033" height="981" alt="PIO 12" src="https://github.com/user-attachments/assets/5b935438-af86-47a6-8c43-ff9e07349664" />
+
 </p>
 <br /><p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   After creating the SysAdmin Department successfully you will see successfully added role to the top of the page in a green box.
+<img width="1100" height="532" alt="PIO 13" src="https://github.com/user-attachments/assets/7546be30-a1e1-465d-924d-b8c578468b74" />
+
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now I will create teams for Online banking
+  Go back to admin panel > Teams
+  <img width="1056" height="465" alt="PIO 14" src="https://github.com/user-attachments/assets/a23908e9-579c-410f-99da-2e296d5cabe0" />
 </p>
 <br />
 
