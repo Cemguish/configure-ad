@@ -150,24 +150,21 @@ Click on the Teams Tab Add to "Online Banking" and Create
 Go back to the admin panel
 Admin Panel > Agents > Add new Agents.
 Fill in the relevant fields like  Name, email address, User name, and Set password.
-Next, go to the access tab for the choose department and role. Add Department Support add role View Only.
-Click Create<img width="1084" height="626" alt="PIO 21" src="https://github.com/user-attachments/assets/b1522061-d7d9-4e1d-af3b-e4c24d934c4f" />
-</p>
-<br />
+Next, go to the access tab for the choose department and role. Add Department Support add role View Only click create.
+Click Create
+<img width="1084" height="626" alt="PIO 21" src="https://github.com/user-attachments/assets/b1522061-d7d9-4e1d-af3b-e4c24d934c4f" />
+</p><br />
 
 <p>
+I will now setting up account for 2 users.
+Go back to the Agent panel > Go to Admin panel > user > add user
+<img width="990" height="830" alt="PIO 22" src="https://github.com/user-attachments/assets/c7124f0d-4d7f-451f-8588-153870eb8c9c" />
+</p><br />
 
-</p>
-
-
-
-
-
-
-
-
-
-
+<p>
+In the user section fill in the relevant fields Email address and full name.
+<img width="752" height="847" alt="PIO 23" src="https://github.com/user-attachments/assets/a16248e9-159e-41cb-b084-2172e83d74ac" />
+</p><br />
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
