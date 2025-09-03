@@ -149,13 +149,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <b>Now, I will set up the Help topic/categories.</b>
-<dt>Admin Panel > Manage > Help Topics.</dt>
-<dd>I will be setting up a few topics.</dd>
-<dd>Business Critical Outage</dd>
-<dd>Personal Computer Issues</dd>
-<dd>Equipment Request</dd>
-<dd>Password Reset</dd>
-<dd>Other</dd><br>
+<li>Admin Panel > Manage > Help Topics.</li>
+<li>I will be setting up a few topics.</li>
+<li>Business Critical Outage</li>
+<li>Personal Computer Issues</li>
+<li>Equipment Request</li>
+<li>Password Reset</li>
+<li>Other</li><br>
 <img width="1033" height="959" alt="PIO 29" src="https://github.com/user-attachments/assets/03f43208-8d23-42ae-ad52-06fa3ccb6275" /><br>
 
 
@@ -206,7 +206,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p><br />
 
 <p>
-  Now osTicket is now set up and completed ready to be used.
+  <li>Now osTicket is now set up and completed ready to be used.</li><br>
 <img width="1049" height="955" alt="PIO 35" src="https://github.com/user-attachments/assets/5927f5d0-110f-43b2-947d-9aa2bba6758b" />
 
 </p>
