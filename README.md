@@ -6,11 +6,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -34,67 +29,44 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-Log into azure make sure you enable virtual machines from the previous session.
-  All credentials should be the same.
+<b>Log into azure make sure you enable virtual machines from the previous session.</b>
+  <li>All credentials should be the same.</li>
+    <li>Log into remote desktop.</li><br> 
 <img width="1704" height="926" alt="PIO 1" src="https://github.com/user-attachments/assets/4d254cf5-da36-4683-94e6-67e682499284" />
-</p>
-
-<p>
-  Log into remote desktop 
 <img width="1473" height="875" alt="PIO 2" src="https://github.com/user-attachments/assets/ea3c9df1-b504-4a3a-bbd4-12c3f6c1c0cb" />
 </p>
 <br />
 
 <p>
-    Next, copy and paste this URL into the search bar http://localhost/osTicket/scp/login.php 
-  I will be using this for Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
-<img width="1458" height="893" alt="PIO 3" src="https://github.com/user-attachments/assets/cded2f53-2231-43cb-bb3b-a248dd300c0d" />
-
-</p><br />
-<p>
-   Open another window and copy and paste this URL into the search bar http://localhost/osTicket 
-  I will be using this for End Users osTicket URL: http://localhost/osTicket 
-  <img width="1678" height="737" alt="PIO 4" src="https://github.com/user-attachments/assets/2ed5b828-765a-4bce-a701-fd101aa421f9" />
-
+  <b>Next, copy and paste this URL into the search bar http://localhost/osTicket/scp/login.php</b> 
+  <li>I will be using this for Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php</li>
+  <li>Open another window and copy and paste this URL into the search bar http://localhost/osTicket</li> 
+   <li>I will be using this for End Users osTicket URL: http://localhost/osTicket</li><br>  
+<img width="1458" height="893" alt="PIO 3" src="https://github.com/user-attachments/assets/cded2f53-2231-43cb-bb3b-a248dd300c0d" /> 
+<img width="1678" height="737" alt="PIO 4" src="https://github.com/user-attachments/assets/2ed5b828-765a-4bce-a701-fd101aa421f9" />
 </p>
 <br />
 
 <p>
-  After login to osTicket I will be creating and few roles Supreme Admin, SysAdmins, Online Banking, Agent(Workers) and Users (Customers)
-  Navigate to the double click > Agent panel 
+<b>After login to osTicket I will be creating and few roles.</b>
+ <li>Roles such as Supreme Admin, SysAdmins, Online Banking, Agent(Workers) and Users (Customers)</li>
+ <li>Navigate to the double click > Agent panel.</li>
+ <li>Next go to agent > Roles > Add new role.</li> 
+ <li>I will create a role called Supreme Admin.</li>
+ <li>Fill in the name box Supreme Admin.</li>
+ <li>Then click on the Permissions tab and check all boxes.</li>
+ <li>Click on the Task Tab and check all boxes.</li>
+ <li>Click on knowledge base check the Premade box then add role.</li>
+ <li>After creating the role successfully you will see successfully added role to the top of the page in a green box.</li><br> 
 <img width="1709" height="862" alt="PIO 5" src="https://github.com/user-attachments/assets/2b9f9cdc-d4d6-4206-87a5-e0d1d0642d7c" />
-</p>
-
-
-<p>
-Next go to agent > Roles > Add new role. 
-I will create a role called Supreme Admin.
-Fill in the name box Supreme Admin.
-
 <img width="1257" height="577" alt="PIO 7" src="https://github.com/user-attachments/assets/e7053edb-c19c-4deb-9061-3b6def896db6" />
-
-
-</p>
-<br />
-
-
-<p>
-  Then click on the Permissions tab and check all boxes.
-  Click on the Task Tab and check all boxes.
-  Click on knowledge base check the Premade box then add role
 <img width="1103" height="757" alt="PIO 8" src="https://github.com/user-attachments/assets/4fb310e0-5a74-4665-afdc-2b02df7772fd" />
-
-</p>
-
-<p>
-  After creating the role successfully you will see successfully added role to the top of the page in a green box.
 <img width="1022" height="554" alt="PIO 10" src="https://github.com/user-attachments/assets/faa41a6d-6d29-4427-a0f9-ca62e323fb41" />
-
 </p>
 <br />
 
 <p>
-  Next, I will be creating a role for Departments. 
+  <b>Next, I will be creating a role for Departments.</b> 
   Go back to the Admin panel > Agents > Departments add New "Department".
 <img width="1168" height="495" alt="PIO 11" src="https://github.com/user-attachments/assets/e1f9ba60-22c4-4c44-957d-0f190bcfad27" />
 </p>
