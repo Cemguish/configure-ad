@@ -79,7 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <b>Now I will create teams for Online banking.</b>
 <li>Go back to admin panel > Teams.</li>
 <li>Add New Teams name the team "Online Banking".</li> 
-<li>Now Create Team.</li><br> 
+<li>Now Create Team.</li>
 <li>After successfully creating the Online Banking Team, a green box will appear at the top of the page confirming it was added.</li><br> 
 <img width="1056" height="465" alt="PIO 14" src="https://github.com/user-attachments/assets/a23908e9-579c-410f-99da-2e296d5cabe0" />
 <img width="1027" height="805" alt="PIO 15" src="https://github.com/user-attachments/assets/38daeceb-203e-4f88-a564-8e136b1b485a" />
